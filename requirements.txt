@@ -1,0 +1,10 @@
+# Core notebook environment
+jupyter>=1.1.1
+ipykernel>=7.2.0
+
+# Data science
+numpy>=2.0.0
+pandas>=2.2.0
+
+# Standard library modules used (no install needed, listed for reference):
+# datetime, math, statistics, collections, heapq, random
