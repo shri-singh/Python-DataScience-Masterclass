@@ -1,7 +1,7 @@
 [project]
 name = "python-demo"
 version = "0.1.0"
-description = "Python learning notebooks — PY100 (basics) and PY200 (applied examples)"
+description = "Python learning notebooks — PY100 to PY500 (basics, applied, EDA, Pandas, statistics)"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
@@ -9,4 +9,14 @@ dependencies = [
     "jupyter>=1.1.1",
     "numpy>=2.0.0",
     "pandas>=2.2.0",
+    "matplotlib>=3.9.0",
+    "seaborn>=0.13.0",
+    "scipy>=1.14.0",
+    "plotly>=6.0.0",
+    "scikit-learn>=1.5.0",
+    "statsmodels>=0.14.0",
+    "beautifulsoup4>=4.12.0",
+    "requests>=2.32.0",
+    "openpyxl>=3.1.0",
+    "lxml>=5.0.0",
 ]
